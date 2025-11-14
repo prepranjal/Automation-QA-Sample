@@ -1,0 +1,40 @@
+INFO     root:logger_util.py:54 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+INFO     root:logger_util.py:54 🔄 Parallel-safe driver management enabled via DriverFactory.
+INFO     root:logger_util.py:54 ➡ Starting Test: test_add_batman_toon_case_to_cart
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [C:\Users\Pranjal-PC\.wdm\drivers\chromedriver\win64\141.0.7390.122\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+INFO     root:logger_util.py:54 ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+INFO     root:logger_util.py:54 ✅ BasePage initialized with WebDriver instance
+INFO     root:logger_util.py:54 ✅ BasePage initialized with WebDriver instance
+INFO     root:logger_util.py:54 ✅ BasePage initialized with WebDriver instance
+INFO     root:logger_util.py:54 ✅ BasePage initialized with WebDriver instance
+INFO     root:logger_util.py:54 ✅ BasePage initialized with WebDriver instance
+INFO     root:logger_util.py:54 Opening Wrapstore Home Page: https://wrapstore.in
+INFO     root:logger_util.py:54 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+INFO     root:logger_util.py:54 Home Page opened successfully.
+INFO     root:logger_util.py:54 Verifying if Home Page is loaded
+INFO     root:logger_util.py:54 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+INFO     root:logger_util.py:54 Home Page loaded successfully
+INFO     root:logger_util.py:54 Navigating to Store page from Home
+INFO     root:logger_util.py:54 🖱 Clicking element: ('link text', 'Store')
+INFO     root:logger_util.py:54 📑 Current Page Title: Store - Premium Phone Cases - WRAPSTORE
+INFO     root:logger_util.py:54 Store page opened successfully
+INFO     root:logger_util.py:54 Opening Armour Glass Case category page
+INFO     root:logger_util.py:54 🖱 Clicking element: ('xpath', "//img[@alt='Armour Glass Case']")
+INFO     root:logger_util.py:54 📑 Current Page Title: Armour Glass Case - Premium Glass Phone Cases & Mobile Covers - WRAPSTORE
+INFO     root:logger_util.py:54 Armour Glass Case category page opened successfully
+INFO     root:logger_util.py:54 Opening Batman Toon Glass Case product
+INFO     root:logger_util.py:54 🖱 Clicking element: ('xpath', "//h2[contains(text(),'Batman Toon Glass Case')]")
+INFO     root:logger_util.py:54 📑 Current Page Title: Batman Toon Glass Case - Premium Phone Cases - WRAPSTORE
+INFO     root:logger_util.py:54 Selecting Brand: Samsung and Model: Galaxy S23 Ultra
+INFO     root:logger_util.py:54 🔍 Finding element: ('id', 'wrapstore_brand')
+INFO     root:logger_util.py:54 🔍 Finding element: ('id', 'wrapstore_device')
+INFO     root:logger_util.py:54 Successfully selected Samsung → Galaxy S23 Ultra
+INFO     root:logger_util.py:54 Clicking Add to Cart button
+INFO     root:logger_util.py:54 🖱 Clicking element: ('css selector', "button.single_add_to_cart_button[name='add-to-cart']")
+INFO     root:logger_util.py:54 Waiting for Cart page to load
+INFO     root:logger_util.py:54 ❌ Test Failed: test_add_batman_toon_case_to_cart
+INFO     root:logger_util.py:54 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+INFO     root:logger_util.py:54 🏁 Test Suite Execution Completed

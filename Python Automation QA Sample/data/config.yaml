@@ -1,0 +1,5 @@
+browser: chrome
+base_url: https://wrapstore.in
+implicit_wait: 10
+explicit_wait: 20
+headless: false

@@ -1,0 +1,538 @@
+2025-10-10 04:33:11 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 04:33:11 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 04:33:11 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 04:36:53 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 04:36:53 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 04:36:53 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 04:39:35 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 04:39:35 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 04:39:36 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 04:42:50 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 04:42:50 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 04:42:50 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 04:49:04 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 04:49:04 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 04:49:04 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 04:52:52 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 04:52:52 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 04:52:52 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-10 04:52:55 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 04:52:55 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 04:52:55 INFO  logger.py:11 - There is no [win64] chromedriver "140.0.7339.207" for browser google-chrome "140.0.7339" in cache
+2025-10-10 04:52:55 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 04:52:55 INFO  logger.py:11 - WebDriver version 140.0.7339.207 selected
+2025-10-10 04:52:56 INFO  logger.py:11 - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/win32/chromedriver-win32.zip
+2025-10-10 04:52:56 INFO  logger.py:11 - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/win32/chromedriver-win32.zip
+2025-10-10 04:52:56 INFO  logger.py:11 - Driver downloading response is 200
+2025-10-10 04:52:57 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 04:52:58 INFO  logger.py:11 - Driver has been saved in cache [C:\Users\Pranjal-PC\.wdm\drivers\chromedriver\win64\140.0.7339.207]
+2025-10-10 04:52:59 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 04:59:19 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 04:59:19 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 04:59:19 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-10 04:59:21 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 04:59:21 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 04:59:21 INFO  logger.py:11 - Driver [C:\Users\Pranjal-PC\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-10-10 04:59:22 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 05:02:07 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 05:02:07 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 05:02:07 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-10 05:02:09 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 05:02:09 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 05:02:09 INFO  logger.py:11 - Driver [C:\Users\Pranjal-PC\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-10-10 05:02:10 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 05:06:04 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 05:06:04 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 05:06:04 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-10 05:06:05 INFO  logger.py:11 - There is no [win32] chromedriver "latest" for browser google-chrome "140.0.7339" in cache
+2025-10-10 05:06:05 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 05:06:06 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 05:09:54 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 05:09:54 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 05:09:54 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-10 05:09:55 INFO  logger.py:11 - There is no [win32] chromedriver "latest" for browser google-chrome "140.0.7339" in cache
+2025-10-10 05:09:55 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 05:09:56 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 05:13:17 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 05:13:17 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 05:13:17 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-10 05:13:19 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 05:13:19 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 05:13:19 INFO  logger.py:11 - Driver [C:\Users\Pranjal-PC\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-10-10 05:13:23 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 05:13:23 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 05:13:27 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-10 05:13:27 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-10 05:13:27 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 05:13:27 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 05:19:19 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 05:19:19 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 05:19:19 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-10 05:19:21 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 05:19:22 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 05:19:22 INFO  logger.py:11 - Driver [C:\Users\Pranjal-PC\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-10-10 05:19:24 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 05:19:24 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 05:19:27 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-10 05:19:27 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-10 05:19:27 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 05:19:27 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 05:22:36 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 05:22:36 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 05:22:36 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-10 05:22:38 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 05:22:38 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 05:22:38 INFO  logger.py:11 - Driver [C:\Users\Pranjal-PC\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-10-10 05:22:40 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 05:22:40 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 05:22:43 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-10 05:22:43 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-10 05:22:43 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 05:22:43 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 05:28:28 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 05:28:28 INFO  logger_util.py:54 - 🔄 Parallel-safe driver management enabled via DriverFactory.
+2025-10-10 05:28:28 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 05:28:28 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-10 05:28:31 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 05:28:31 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 05:28:31 INFO  logger.py:11 - Driver [C:\Users\Pranjal-PC\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-10-10 05:28:34 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 05:28:34 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 05:28:35 INFO  logger_util.py:54 - ❌ Test Failed: test_add_batman_toon_case_to_cart
+2025-10-10 05:28:35 INFO  logger_util.py:54 - ❌ Test Failed: test_add_batman_toon_case_to_cart
+2025-10-10 05:28:37 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-10 05:28:37 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-10 05:28:37 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 05:28:37 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 05:32:16 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 05:32:16 INFO  logger_util.py:54 - 🔄 Parallel-safe driver management enabled via DriverFactory.
+2025-10-10 05:32:16 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 05:32:16 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-10 05:32:18 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 05:32:18 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 05:32:19 INFO  logger.py:11 - Driver [C:\Users\Pranjal-PC\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-10-10 05:32:20 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 05:32:20 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 05:32:20 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 05:32:20 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 05:32:20 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 05:32:20 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 05:32:20 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 05:32:20 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 05:32:20 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 05:32:20 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 05:32:20 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 05:32:20 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 05:32:20 INFO  logger_util.py:54 - Opening Wrapstore Home Page: https://wrapstore.in
+2025-10-10 05:32:20 INFO  logger_util.py:54 - Opening Wrapstore Home Page: https://wrapstore.in
+2025-10-10 05:32:25 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-10 05:32:25 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-10 05:32:25 INFO  logger_util.py:54 - Home Page opened successfully.
+2025-10-10 05:32:25 INFO  logger_util.py:54 - Home Page opened successfully.
+2025-10-10 05:32:26 INFO  logger_util.py:54 - Verifying if Home Page is loaded
+2025-10-10 05:32:26 INFO  logger_util.py:54 - Verifying if Home Page is loaded
+2025-10-10 05:32:26 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-10 05:32:26 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-10 05:32:27 INFO  logger_util.py:54 - Home Page loaded successfully
+2025-10-10 05:32:27 INFO  logger_util.py:54 - Home Page loaded successfully
+2025-10-10 05:32:27 INFO  logger_util.py:54 - Navigating to Store page from Home
+2025-10-10 05:32:27 INFO  logger_util.py:54 - Navigating to Store page from Home
+2025-10-10 05:32:27 INFO  logger_util.py:54 - 🖱 Clicking element: ('link text', 'Store')
+2025-10-10 05:32:27 INFO  logger_util.py:54 - 🖱 Clicking element: ('link text', 'Store')
+2025-10-10 05:32:30 INFO  logger_util.py:54 - 📑 Current Page Title: Store - Premium Phone Cases - WRAPSTORE
+2025-10-10 05:32:30 INFO  logger_util.py:54 - 📑 Current Page Title: Store - Premium Phone Cases - WRAPSTORE
+2025-10-10 05:32:30 INFO  logger_util.py:54 - Store page opened successfully
+2025-10-10 05:32:30 INFO  logger_util.py:54 - Store page opened successfully
+2025-10-10 05:32:30 INFO  logger_util.py:54 - Opening Armour Glass Case category page
+2025-10-10 05:32:30 INFO  logger_util.py:54 - Opening Armour Glass Case category page
+2025-10-10 05:32:30 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//img[@alt='Armour Glass Case']")
+2025-10-10 05:32:30 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//img[@alt='Armour Glass Case']")
+2025-10-10 05:32:34 INFO  logger_util.py:54 - 📑 Current Page Title: Armour Glass Case - Premium Glass Phone Cases & Mobile Covers - WRAPSTORE
+2025-10-10 05:32:34 INFO  logger_util.py:54 - 📑 Current Page Title: Armour Glass Case - Premium Glass Phone Cases & Mobile Covers - WRAPSTORE
+2025-10-10 05:32:34 INFO  logger_util.py:54 - Armour Glass Case category page opened successfully
+2025-10-10 05:32:34 INFO  logger_util.py:54 - Armour Glass Case category page opened successfully
+2025-10-10 05:32:34 INFO  logger_util.py:54 - Opening Batman Toon Glass Case product
+2025-10-10 05:32:34 INFO  logger_util.py:54 - Opening Batman Toon Glass Case product
+2025-10-10 05:32:34 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//h2[contains(text(),'Batman Toon Glass Case')]")
+2025-10-10 05:32:34 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//h2[contains(text(),'Batman Toon Glass Case')]")
+2025-10-10 05:32:38 INFO  logger_util.py:54 - 📑 Current Page Title: Batman Toon Glass Case - Premium Phone Cases - WRAPSTORE
+2025-10-10 05:32:38 INFO  logger_util.py:54 - 📑 Current Page Title: Batman Toon Glass Case - Premium Phone Cases - WRAPSTORE
+2025-10-10 05:32:38 INFO  logger_util.py:54 - Selecting Brand: Samsung and Model: Galaxy S24 Ultra
+2025-10-10 05:32:38 INFO  logger_util.py:54 - Selecting Brand: Samsung and Model: Galaxy S24 Ultra
+2025-10-10 05:32:38 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_brand')
+2025-10-10 05:32:38 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_brand')
+2025-10-10 05:32:38 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_device')
+2025-10-10 05:32:38 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_device')
+2025-10-10 05:32:39 INFO  logger_util.py:54 - Successfully selected Samsung → Galaxy S24 Ultra
+2025-10-10 05:32:39 INFO  logger_util.py:54 - Successfully selected Samsung → Galaxy S24 Ultra
+2025-10-10 05:32:39 INFO  logger_util.py:54 - Clicking Add to Cart button
+2025-10-10 05:32:39 INFO  logger_util.py:54 - Clicking Add to Cart button
+2025-10-10 05:32:39 INFO  logger_util.py:54 - 🖱 Clicking element: ('css selector', "button.single_add_to_cart_button[name='add-to-cart']")
+2025-10-10 05:32:39 INFO  logger_util.py:54 - 🖱 Clicking element: ('css selector', "button.single_add_to_cart_button[name='add-to-cart']")
+2025-10-10 05:32:39 INFO  logger_util.py:54 - Waiting for Cart page to load
+2025-10-10 05:32:39 INFO  logger_util.py:54 - Waiting for Cart page to load
+2025-10-10 05:32:44 INFO  logger_util.py:54 - 📑 Current Page Title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-10 05:32:44 INFO  logger_util.py:54 - 📑 Current Page Title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-10 05:32:44 INFO  logger_util.py:54 - Validating Cart page title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-10 05:32:44 INFO  logger_util.py:54 - Validating Cart page title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-10 05:32:44 INFO  logger_util.py:54 - Successfully navigated to Cart page
+2025-10-10 05:32:44 INFO  logger_util.py:54 - Successfully navigated to Cart page
+2025-10-10 05:32:44 INFO  logger_util.py:54 - ===== TEST END: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 05:32:44 INFO  logger_util.py:54 - ===== TEST END: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 05:32:44 INFO  logger_util.py:54 - ✅ Test Passed: test_add_batman_toon_case_to_cart
+2025-10-10 05:32:44 INFO  logger_util.py:54 - ✅ Test Passed: test_add_batman_toon_case_to_cart
+2025-10-10 05:32:46 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-10 05:32:46 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-10 05:32:46 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 05:32:46 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 18:11:55 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-10 18:11:55 INFO  logger_util.py:54 - 🔄 Parallel-safe driver management enabled via DriverFactory.
+2025-10-10 18:11:55 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-10 18:11:55 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-10 18:12:00 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 18:12:00 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-10 18:12:00 INFO  logger.py:11 - Driver [C:\Users\Pranjal-PC\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-10-10 18:12:07 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 18:12:07 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 18:12:07 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 18:12:07 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 18:12:07 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 18:12:07 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 18:12:07 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 18:12:07 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 18:12:07 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 18:12:07 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 18:12:07 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 18:12:07 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-10 18:12:07 INFO  logger_util.py:54 - Opening Wrapstore Home Page: https://wrapstore.in
+2025-10-10 18:12:07 INFO  logger_util.py:54 - Opening Wrapstore Home Page: https://wrapstore.in
+2025-10-10 18:12:18 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-10 18:12:18 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-10 18:12:18 INFO  logger_util.py:54 - Home Page opened successfully.
+2025-10-10 18:12:18 INFO  logger_util.py:54 - Home Page opened successfully.
+2025-10-10 18:12:19 INFO  logger_util.py:54 - Verifying if Home Page is loaded
+2025-10-10 18:12:19 INFO  logger_util.py:54 - Verifying if Home Page is loaded
+2025-10-10 18:12:19 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-10 18:12:19 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-10 18:12:20 INFO  logger_util.py:54 - Home Page loaded successfully
+2025-10-10 18:12:20 INFO  logger_util.py:54 - Home Page loaded successfully
+2025-10-10 18:12:20 INFO  logger_util.py:54 - Navigating to Store page from Home
+2025-10-10 18:12:20 INFO  logger_util.py:54 - Navigating to Store page from Home
+2025-10-10 18:12:21 INFO  logger_util.py:54 - 🖱 Clicking element: ('link text', 'Store')
+2025-10-10 18:12:21 INFO  logger_util.py:54 - 🖱 Clicking element: ('link text', 'Store')
+2025-10-10 18:12:27 INFO  logger_util.py:54 - 📑 Current Page Title: Store - Premium Phone Cases - WRAPSTORE
+2025-10-10 18:12:27 INFO  logger_util.py:54 - 📑 Current Page Title: Store - Premium Phone Cases - WRAPSTORE
+2025-10-10 18:12:27 INFO  logger_util.py:54 - Store page opened successfully
+2025-10-10 18:12:27 INFO  logger_util.py:54 - Store page opened successfully
+2025-10-10 18:12:27 INFO  logger_util.py:54 - Opening Armour Glass Case category page
+2025-10-10 18:12:27 INFO  logger_util.py:54 - Opening Armour Glass Case category page
+2025-10-10 18:12:28 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//img[@alt='Armour Glass Case']")
+2025-10-10 18:12:28 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//img[@alt='Armour Glass Case']")
+2025-10-10 18:12:38 INFO  logger_util.py:54 - 📑 Current Page Title: Armour Glass Case - Premium Glass Phone Cases & Mobile Covers - WRAPSTORE
+2025-10-10 18:12:38 INFO  logger_util.py:54 - 📑 Current Page Title: Armour Glass Case - Premium Glass Phone Cases & Mobile Covers - WRAPSTORE
+2025-10-10 18:12:38 INFO  logger_util.py:54 - Armour Glass Case category page opened successfully
+2025-10-10 18:12:38 INFO  logger_util.py:54 - Armour Glass Case category page opened successfully
+2025-10-10 18:12:38 INFO  logger_util.py:54 - Opening Batman Toon Glass Case product
+2025-10-10 18:12:38 INFO  logger_util.py:54 - Opening Batman Toon Glass Case product
+2025-10-10 18:12:38 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//h2[contains(text(),'Batman Toon Glass Case')]")
+2025-10-10 18:12:38 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//h2[contains(text(),'Batman Toon Glass Case')]")
+2025-10-10 18:12:44 INFO  logger_util.py:54 - 📑 Current Page Title: Batman Toon Glass Case - Premium Phone Cases - WRAPSTORE
+2025-10-10 18:12:44 INFO  logger_util.py:54 - 📑 Current Page Title: Batman Toon Glass Case - Premium Phone Cases - WRAPSTORE
+2025-10-10 18:12:44 INFO  logger_util.py:54 - Selecting Brand: Samsung and Model: Galaxy S24 Ultra
+2025-10-10 18:12:44 INFO  logger_util.py:54 - Selecting Brand: Samsung and Model: Galaxy S24 Ultra
+2025-10-10 18:12:44 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_brand')
+2025-10-10 18:12:44 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_brand')
+2025-10-10 18:12:45 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_device')
+2025-10-10 18:12:45 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_device')
+2025-10-10 18:12:46 INFO  logger_util.py:54 - Successfully selected Samsung → Galaxy S24 Ultra
+2025-10-10 18:12:46 INFO  logger_util.py:54 - Successfully selected Samsung → Galaxy S24 Ultra
+2025-10-10 18:12:46 INFO  logger_util.py:54 - Clicking Add to Cart button
+2025-10-10 18:12:46 INFO  logger_util.py:54 - Clicking Add to Cart button
+2025-10-10 18:12:47 INFO  logger_util.py:54 - 🖱 Clicking element: ('css selector', "button.single_add_to_cart_button[name='add-to-cart']")
+2025-10-10 18:12:47 INFO  logger_util.py:54 - 🖱 Clicking element: ('css selector', "button.single_add_to_cart_button[name='add-to-cart']")
+2025-10-10 18:12:47 INFO  logger_util.py:54 - Waiting for Cart page to load
+2025-10-10 18:12:47 INFO  logger_util.py:54 - Waiting for Cart page to load
+2025-10-10 18:12:53 INFO  logger_util.py:54 - 📑 Current Page Title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-10 18:12:53 INFO  logger_util.py:54 - 📑 Current Page Title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-10 18:12:53 INFO  logger_util.py:54 - Validating Cart page title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-10 18:12:53 INFO  logger_util.py:54 - Validating Cart page title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-10 18:12:53 INFO  logger_util.py:54 - Successfully navigated to Cart page
+2025-10-10 18:12:53 INFO  logger_util.py:54 - Successfully navigated to Cart page
+2025-10-10 18:12:53 INFO  logger_util.py:54 - ===== TEST END: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 18:12:53 INFO  logger_util.py:54 - ===== TEST END: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-10 18:12:53 INFO  logger_util.py:54 - ✅ Test Passed: test_add_batman_toon_case_to_cart
+2025-10-10 18:12:53 INFO  logger_util.py:54 - ✅ Test Passed: test_add_batman_toon_case_to_cart
+2025-10-10 18:12:56 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-10 18:12:56 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-10 18:12:56 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-10 18:12:56 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-11 20:27:14 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite via runner.py
+2025-10-11 20:27:17 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-11 20:27:17 INFO  logger_util.py:54 - 🔄 Parallel-safe driver management enabled via DriverFactory.
+2025-10-11 20:27:17 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-11 20:27:17 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-11 20:27:19 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-11 20:27:20 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-11 20:27:20 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-11 20:27:20 INFO  logger.py:11 - WebDriver version 140.0.7339.207 selected
+2025-10-11 20:27:20 INFO  logger.py:11 - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/win32/chromedriver-win32.zip
+2025-10-11 20:27:20 INFO  logger.py:11 - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/win32/chromedriver-win32.zip
+2025-10-11 20:27:20 INFO  logger.py:11 - Driver downloading response is 200
+2025-10-11 20:27:21 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-11 20:27:21 INFO  logger.py:11 - Driver has been saved in cache [C:\Users\Pranjal-PC\.wdm\drivers\chromedriver\win64\140.0.7339.207]
+2025-10-11 20:27:25 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-11 20:27:25 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-11 20:27:25 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-11 20:27:25 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-11 20:27:25 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-11 20:27:25 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-11 20:27:25 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-11 20:27:25 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-11 20:27:25 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-11 20:27:25 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-11 20:27:25 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-11 20:27:25 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-11 20:27:25 INFO  logger_util.py:54 - Opening Wrapstore Home Page: https://wrapstore.in
+2025-10-11 20:27:25 INFO  logger_util.py:54 - Opening Wrapstore Home Page: https://wrapstore.in
+2025-10-11 20:27:31 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-11 20:27:31 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-11 20:27:31 INFO  logger_util.py:54 - Home Page opened successfully.
+2025-10-11 20:27:31 INFO  logger_util.py:54 - Home Page opened successfully.
+2025-10-11 20:27:31 INFO  logger_util.py:54 - Verifying if Home Page is loaded
+2025-10-11 20:27:31 INFO  logger_util.py:54 - Verifying if Home Page is loaded
+2025-10-11 20:27:31 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-11 20:27:31 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-11 20:27:32 INFO  logger_util.py:54 - Home Page loaded successfully
+2025-10-11 20:27:32 INFO  logger_util.py:54 - Home Page loaded successfully
+2025-10-11 20:27:32 INFO  logger_util.py:54 - Navigating to Store page from Home
+2025-10-11 20:27:32 INFO  logger_util.py:54 - Navigating to Store page from Home
+2025-10-11 20:27:32 INFO  logger_util.py:54 - 🖱 Clicking element: ('link text', 'Store')
+2025-10-11 20:27:32 INFO  logger_util.py:54 - 🖱 Clicking element: ('link text', 'Store')
+2025-10-11 20:27:36 INFO  logger_util.py:54 - 📑 Current Page Title: Store - Premium Phone Cases - WRAPSTORE
+2025-10-11 20:27:36 INFO  logger_util.py:54 - 📑 Current Page Title: Store - Premium Phone Cases - WRAPSTORE
+2025-10-11 20:27:36 INFO  logger_util.py:54 - Store page opened successfully
+2025-10-11 20:27:36 INFO  logger_util.py:54 - Store page opened successfully
+2025-10-11 20:27:36 INFO  logger_util.py:54 - Opening Armour Glass Case category page
+2025-10-11 20:27:36 INFO  logger_util.py:54 - Opening Armour Glass Case category page
+2025-10-11 20:27:36 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//img[@alt='Armour Glass Case']")
+2025-10-11 20:27:36 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//img[@alt='Armour Glass Case']")
+2025-10-11 20:27:41 INFO  logger_util.py:54 - 📑 Current Page Title: Armour Glass Case - Premium Glass Phone Cases & Mobile Covers - WRAPSTORE
+2025-10-11 20:27:41 INFO  logger_util.py:54 - 📑 Current Page Title: Armour Glass Case - Premium Glass Phone Cases & Mobile Covers - WRAPSTORE
+2025-10-11 20:27:41 INFO  logger_util.py:54 - Armour Glass Case category page opened successfully
+2025-10-11 20:27:41 INFO  logger_util.py:54 - Armour Glass Case category page opened successfully
+2025-10-11 20:27:41 INFO  logger_util.py:54 - Opening Batman Toon Glass Case product
+2025-10-11 20:27:41 INFO  logger_util.py:54 - Opening Batman Toon Glass Case product
+2025-10-11 20:27:41 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//h2[contains(text(),'Batman Toon Glass Case')]")
+2025-10-11 20:27:41 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//h2[contains(text(),'Batman Toon Glass Case')]")
+2025-10-11 20:27:45 INFO  logger_util.py:54 - 📑 Current Page Title: Batman Toon Glass Case - Premium Phone Cases - WRAPSTORE
+2025-10-11 20:27:45 INFO  logger_util.py:54 - 📑 Current Page Title: Batman Toon Glass Case - Premium Phone Cases - WRAPSTORE
+2025-10-11 20:27:45 INFO  logger_util.py:54 - Selecting Brand: Samsung and Model: Galaxy S24 Ultra
+2025-10-11 20:27:45 INFO  logger_util.py:54 - Selecting Brand: Samsung and Model: Galaxy S24 Ultra
+2025-10-11 20:27:45 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_brand')
+2025-10-11 20:27:45 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_brand')
+2025-10-11 20:27:46 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_device')
+2025-10-11 20:27:46 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_device')
+2025-10-11 20:27:46 INFO  logger_util.py:54 - Successfully selected Samsung → Galaxy S24 Ultra
+2025-10-11 20:27:46 INFO  logger_util.py:54 - Successfully selected Samsung → Galaxy S24 Ultra
+2025-10-11 20:27:46 INFO  logger_util.py:54 - Clicking Add to Cart button
+2025-10-11 20:27:46 INFO  logger_util.py:54 - Clicking Add to Cart button
+2025-10-11 20:27:47 INFO  logger_util.py:54 - 🖱 Clicking element: ('css selector', "button.single_add_to_cart_button[name='add-to-cart']")
+2025-10-11 20:27:47 INFO  logger_util.py:54 - 🖱 Clicking element: ('css selector', "button.single_add_to_cart_button[name='add-to-cart']")
+2025-10-11 20:27:47 INFO  logger_util.py:54 - Waiting for Cart page to load
+2025-10-11 20:27:47 INFO  logger_util.py:54 - Waiting for Cart page to load
+2025-10-11 20:27:52 INFO  logger_util.py:54 - 📑 Current Page Title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-11 20:27:52 INFO  logger_util.py:54 - 📑 Current Page Title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-11 20:27:52 INFO  logger_util.py:54 - Validating Cart page title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-11 20:27:52 INFO  logger_util.py:54 - Validating Cart page title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-11 20:27:52 INFO  logger_util.py:54 - Successfully navigated to Cart page
+2025-10-11 20:27:52 INFO  logger_util.py:54 - Successfully navigated to Cart page
+2025-10-11 20:27:52 INFO  logger_util.py:54 - ===== TEST END: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-11 20:27:52 INFO  logger_util.py:54 - ===== TEST END: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-11 20:27:52 INFO  logger_util.py:54 - ✅ Test Passed: test_add_batman_toon_case_to_cart
+2025-10-11 20:27:52 INFO  logger_util.py:54 - ✅ Test Passed: test_add_batman_toon_case_to_cart
+2025-10-11 20:27:54 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-11 20:27:54 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-11 20:27:54 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-11 20:27:54 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-11 20:27:54 INFO  logger_util.py:54 - 📊 Generating Allure HTML report...
+2025-10-11 20:27:54 INFO  logger_util.py:54 - 📊 Generating Allure HTML report...
+2025-10-11 20:27:54 INFO  logger_util.py:54 - ⚠️ Allure CLI not found. Please install it: `scoop install allure` or `choco install allure`.
+2025-10-11 20:27:54 INFO  logger_util.py:54 - ⚠️ Allure CLI not found. Please install it: `scoop install allure` or `choco install allure`.
+2025-10-16 08:26:34 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite via runner.py
+2025-10-16 08:26:37 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-16 08:26:37 INFO  logger_util.py:54 - 🔄 Parallel-safe driver management enabled via DriverFactory.
+2025-10-16 08:26:37 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-16 08:26:37 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-16 08:26:44 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-16 08:26:44 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-16 08:26:45 INFO  logger.py:11 - There is no [win64] chromedriver "141.0.7390.78" for browser google-chrome "141.0.7390" in cache
+2025-10-16 08:26:45 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-16 08:26:45 INFO  logger.py:11 - WebDriver version 141.0.7390.78 selected
+2025-10-16 08:26:45 INFO  logger.py:11 - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/win32/chromedriver-win32.zip
+2025-10-16 08:26:45 INFO  logger.py:11 - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/win32/chromedriver-win32.zip
+2025-10-16 08:26:45 INFO  logger.py:11 - Driver downloading response is 200
+2025-10-16 08:26:47 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-16 08:26:49 INFO  logger.py:11 - Driver has been saved in cache [C:\Users\Pranjal-PC\.wdm\drivers\chromedriver\win64\141.0.7390.78]
+2025-10-16 08:26:54 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-16 08:26:54 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-16 08:26:54 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-16 08:26:54 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-16 08:26:54 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-16 08:26:54 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-16 08:26:54 INFO  logger_util.py:54 - Opening Wrapstore Home Page: https://wrapstore.in
+2025-10-16 08:26:59 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-16 08:26:59 INFO  logger_util.py:54 - Home Page opened successfully.
+2025-10-16 08:27:00 INFO  logger_util.py:54 - Verifying if Home Page is loaded
+2025-10-16 08:27:00 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-16 08:27:00 INFO  logger_util.py:54 - Home Page loaded successfully
+2025-10-16 08:27:00 INFO  logger_util.py:54 - Navigating to Store page from Home
+2025-10-16 08:27:01 INFO  logger_util.py:54 - 🖱 Clicking element: ('link text', 'Store')
+2025-10-16 08:27:04 INFO  logger_util.py:54 - 📑 Current Page Title: Store - Premium Phone Cases - WRAPSTORE
+2025-10-16 08:27:04 INFO  logger_util.py:54 - Store page opened successfully
+2025-10-16 08:27:04 INFO  logger_util.py:54 - Opening Armour Glass Case category page
+2025-10-16 08:27:04 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//img[@alt='Armour Glass Case']")
+2025-10-16 08:27:09 INFO  logger_util.py:54 - 📑 Current Page Title: Armour Glass Case - Premium Glass Phone Cases & Mobile Covers - WRAPSTORE
+2025-10-16 08:27:09 INFO  logger_util.py:54 - Armour Glass Case category page opened successfully
+2025-10-16 08:27:09 INFO  logger_util.py:54 - Opening Batman Toon Glass Case product
+2025-10-16 08:27:09 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//h2[contains(text(),'Batman Toon Glass Case')]")
+2025-10-16 08:27:13 INFO  logger_util.py:54 - 📑 Current Page Title: Batman Toon Glass Case - Premium Phone Cases - WRAPSTORE
+2025-10-16 08:27:13 INFO  logger_util.py:54 - Selecting Brand: Samsung and Model: Galaxy S23 Ultra
+2025-10-16 08:27:13 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_brand')
+2025-10-16 08:27:14 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_device')
+2025-10-16 08:27:14 INFO  logger_util.py:54 - Successfully selected Samsung → Galaxy S23 Ultra
+2025-10-16 08:27:14 INFO  logger_util.py:54 - Clicking Add to Cart button
+2025-10-16 08:27:14 INFO  logger_util.py:54 - 🖱 Clicking element: ('css selector', "button.single_add_to_cart_button[name='add-to-cart']")
+2025-10-16 08:27:15 INFO  logger_util.py:54 - Waiting for Cart page to load
+2025-10-16 08:27:19 INFO  logger_util.py:54 - 📑 Current Page Title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-16 08:27:19 INFO  logger_util.py:54 - Validating Cart page title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-16 08:27:19 INFO  logger_util.py:54 - Successfully navigated to Cart page
+2025-10-16 08:27:19 INFO  logger_util.py:54 - ===== TEST END: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-16 08:27:19 INFO  logger_util.py:54 - ✅ Test Passed: test_add_batman_toon_case_to_cart
+2025-10-16 08:27:22 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-16 08:27:22 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-16 08:27:22 INFO  logger_util.py:54 - 📊 Generating Allure HTML report...
+2025-10-16 08:27:22 INFO  logger_util.py:54 - ⚠️ Allure CLI not found. Please install it: `scoop install allure` or `choco install allure`.
+2025-10-30 15:53:19 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite via runner.py
+2025-10-30 15:53:23 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-30 15:53:23 INFO  logger_util.py:54 - 🔄 Parallel-safe driver management enabled via DriverFactory.
+2025-10-30 15:53:23 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-30 15:53:23 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-30 15:53:25 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-30 15:53:25 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-30 15:53:26 INFO  logger.py:11 - There is no [win64] chromedriver "141.0.7390.122" for browser google-chrome "141.0.7390" in cache
+2025-10-30 15:53:26 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-30 15:53:26 INFO  logger.py:11 - WebDriver version 141.0.7390.122 selected
+2025-10-30 15:53:26 INFO  logger.py:11 - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.122/win32/chromedriver-win32.zip
+2025-10-30 15:53:26 INFO  logger.py:11 - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.122/win32/chromedriver-win32.zip
+2025-10-30 15:53:26 INFO  logger.py:11 - Driver downloading response is 200
+2025-10-30 15:53:26 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-30 15:53:28 INFO  logger.py:11 - Driver has been saved in cache [C:\Users\Pranjal-PC\.wdm\drivers\chromedriver\win64\141.0.7390.122]
+2025-10-30 15:53:32 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-30 15:53:32 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-30 15:53:32 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-30 15:53:32 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-30 15:53:32 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-30 15:53:32 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-30 15:53:32 INFO  logger_util.py:54 - Opening Wrapstore Home Page: https://wrapstore.in
+2025-10-30 15:53:38 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-30 15:53:38 INFO  logger_util.py:54 - Home Page opened successfully.
+2025-10-30 15:53:39 INFO  logger_util.py:54 - Verifying if Home Page is loaded
+2025-10-30 15:53:39 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-30 15:53:39 INFO  logger_util.py:54 - Home Page loaded successfully
+2025-10-30 15:53:39 INFO  logger_util.py:54 - Navigating to Store page from Home
+2025-10-30 15:53:40 INFO  logger_util.py:54 - 🖱 Clicking element: ('link text', 'Store')
+2025-10-30 15:53:43 INFO  logger_util.py:54 - 📑 Current Page Title: Store - Premium Phone Cases - WRAPSTORE
+2025-10-30 15:53:43 INFO  logger_util.py:54 - Store page opened successfully
+2025-10-30 15:53:43 INFO  logger_util.py:54 - Opening Armour Glass Case category page
+2025-10-30 15:53:43 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//img[@alt='Armour Glass Case']")
+2025-10-30 15:53:48 INFO  logger_util.py:54 - 📑 Current Page Title: Armour Glass Case - Premium Glass Phone Cases & Mobile Covers - WRAPSTORE
+2025-10-30 15:53:48 INFO  logger_util.py:54 - Armour Glass Case category page opened successfully
+2025-10-30 15:53:48 INFO  logger_util.py:54 - Opening Batman Toon Glass Case product
+2025-10-30 15:53:48 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//h2[contains(text(),'Batman Toon Glass Case')]")
+2025-10-30 15:53:53 INFO  logger_util.py:54 - 📑 Current Page Title: Batman Toon Glass Case - Premium Phone Cases - WRAPSTORE
+2025-10-30 15:53:53 INFO  logger_util.py:54 - Selecting Brand: Samsung and Model: Galaxy S23 Ultra
+2025-10-30 15:53:53 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_brand')
+2025-10-30 15:53:54 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_device')
+2025-10-30 15:53:54 INFO  logger_util.py:54 - Successfully selected Samsung → Galaxy S23 Ultra
+2025-10-30 15:53:54 INFO  logger_util.py:54 - Clicking Add to Cart button
+2025-10-30 15:53:54 INFO  logger_util.py:54 - 🖱 Clicking element: ('css selector', "button.single_add_to_cart_button[name='add-to-cart']")
+2025-10-30 15:53:54 INFO  logger_util.py:54 - Waiting for Cart page to load
+2025-10-30 15:54:00 INFO  logger_util.py:54 - 📑 Current Page Title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-30 15:54:00 INFO  logger_util.py:54 - Validating Cart page title: Cart - Premium Phone Cases - WRAPSTORE
+2025-10-30 15:54:00 INFO  logger_util.py:54 - Successfully navigated to Cart page
+2025-10-30 15:54:00 INFO  logger_util.py:54 - ===== TEST END: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-30 15:54:00 INFO  logger_util.py:54 - ✅ Test Passed: test_add_batman_toon_case_to_cart
+2025-10-30 15:54:03 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-30 15:54:03 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-30 15:54:03 INFO  logger_util.py:54 - 📊 Generating Allure HTML report...
+2025-10-30 15:54:03 INFO  logger_util.py:54 - ⚠️ Allure CLI not found. Please install it: `scoop install allure` or `choco install allure`.
+2025-10-30 20:59:24 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite via runner.py
+2025-10-30 20:59:26 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-30 20:59:26 INFO  logger_util.py:54 - 🔄 Parallel-safe driver management enabled via DriverFactory.
+2025-10-30 20:59:26 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-30 20:59:26 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-30 20:59:27 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-30 20:59:28 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-30 20:59:28 INFO  logger_util.py:54 - 📊 Generating Allure HTML report...
+2025-10-30 20:59:28 INFO  logger_util.py:54 - ⚠️ Allure CLI not found. Please install it: `scoop install allure` or `choco install allure`.
+2025-10-30 21:00:06 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite via runner.py
+2025-10-30 21:00:08 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-30 21:00:08 INFO  logger_util.py:54 - 🔄 Parallel-safe driver management enabled via DriverFactory.
+2025-10-30 21:00:08 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-30 21:00:08 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-30 21:00:10 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-30 21:00:11 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-30 21:00:11 INFO  logger_util.py:54 - 📊 Generating Allure HTML report...
+2025-10-30 21:00:11 INFO  logger_util.py:54 - ⚠️ Allure CLI not found. Please install it: `scoop install allure` or `choco install allure`.
+2025-10-30 21:01:05 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite via runner.py
+2025-10-30 21:01:07 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-30 21:01:07 INFO  logger_util.py:54 - 🔄 Parallel-safe driver management enabled via DriverFactory.
+2025-10-30 21:01:07 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-30 21:01:07 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-30 21:01:09 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-30 21:01:09 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-30 21:01:09 INFO  logger_util.py:54 - 📊 Generating Allure HTML report...
+2025-10-30 21:01:09 INFO  logger_util.py:54 - ⚠️ Allure CLI not found. Please install it: `scoop install allure` or `choco install allure`.
+2025-10-30 21:02:59 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite via runner.py
+2025-10-30 21:03:02 INFO  logger_util.py:54 - 🚀 Starting Wrapstore Automation Test Suite (PyTest mode)
+2025-10-30 21:03:02 INFO  logger_util.py:54 - 🔄 Parallel-safe driver management enabled via DriverFactory.
+2025-10-30 21:03:02 INFO  logger_util.py:54 - ➡ Starting Test: test_add_batman_toon_case_to_cart
+2025-10-30 21:03:02 INFO  logger.py:11 - ====== WebDriver manager ======
+2025-10-30 21:03:05 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-30 21:03:11 INFO  logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-10-30 21:03:14 INFO  logger.py:11 - Driver [C:\Users\Pranjal-PC\.wdm\drivers\chromedriver\win64\141.0.7390.122\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-10-30 21:03:16 INFO  logger_util.py:54 - ===== TEST START: Add Batman Toon Armour Glass Case to Cart =====
+2025-10-30 21:03:16 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-30 21:03:16 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-30 21:03:16 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-30 21:03:16 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-30 21:03:16 INFO  logger_util.py:54 - ✅ BasePage initialized with WebDriver instance
+2025-10-30 21:03:16 INFO  logger_util.py:54 - Opening Wrapstore Home Page: https://wrapstore.in
+2025-10-30 21:04:07 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-30 21:04:07 INFO  logger_util.py:54 - Home Page opened successfully.
+2025-10-30 21:04:08 INFO  logger_util.py:54 - Verifying if Home Page is loaded
+2025-10-30 21:04:08 INFO  logger_util.py:54 - 📑 Current Page Title: Premium Phone Cases - Redesign Your Device! - WRAPSTORE
+2025-10-30 21:04:08 INFO  logger_util.py:54 - Home Page loaded successfully
+2025-10-30 21:04:08 INFO  logger_util.py:54 - Navigating to Store page from Home
+2025-10-30 21:04:09 INFO  logger_util.py:54 - 🖱 Clicking element: ('link text', 'Store')
+2025-10-30 21:04:16 INFO  logger_util.py:54 - 📑 Current Page Title: Store - Premium Phone Cases - WRAPSTORE
+2025-10-30 21:04:16 INFO  logger_util.py:54 - Store page opened successfully
+2025-10-30 21:04:16 INFO  logger_util.py:54 - Opening Armour Glass Case category page
+2025-10-30 21:04:17 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//img[@alt='Armour Glass Case']")
+2025-10-30 21:04:29 INFO  logger_util.py:54 - 📑 Current Page Title: Armour Glass Case - Premium Glass Phone Cases & Mobile Covers - WRAPSTORE
+2025-10-30 21:04:29 INFO  logger_util.py:54 - Armour Glass Case category page opened successfully
+2025-10-30 21:04:29 INFO  logger_util.py:54 - Opening Batman Toon Glass Case product
+2025-10-30 21:04:29 INFO  logger_util.py:54 - 🖱 Clicking element: ('xpath', "//h2[contains(text(),'Batman Toon Glass Case')]")
+2025-10-30 21:05:12 INFO  logger_util.py:54 - 📑 Current Page Title: Batman Toon Glass Case - Premium Phone Cases - WRAPSTORE
+2025-10-30 21:05:12 INFO  logger_util.py:54 - Selecting Brand: Samsung and Model: Galaxy S23 Ultra
+2025-10-30 21:05:13 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_brand')
+2025-10-30 21:05:13 INFO  logger_util.py:54 - 🔍 Finding element: ('id', 'wrapstore_device')
+2025-10-30 21:05:14 INFO  logger_util.py:54 - Successfully selected Samsung → Galaxy S23 Ultra
+2025-10-30 21:05:14 INFO  logger_util.py:54 - Clicking Add to Cart button
+2025-10-30 21:05:14 INFO  logger_util.py:54 - 🖱 Clicking element: ('css selector', "button.single_add_to_cart_button[name='add-to-cart']")
+2025-10-30 21:05:14 INFO  logger_util.py:54 - Waiting for Cart page to load
+2025-10-30 21:05:37 INFO  logger_util.py:54 - ❌ Test Failed: test_add_batman_toon_case_to_cart
+2025-10-30 21:05:39 INFO  logger_util.py:54 - 🧹 WebDriver closed for test: test_add_batman_toon_case_to_cart
+2025-10-30 21:05:39 INFO  logger_util.py:54 - 🏁 Test Suite Execution Completed
+2025-10-30 21:05:39 INFO  logger_util.py:54 - 📊 Generating Allure HTML report...
+2025-10-30 21:05:39 INFO  logger_util.py:54 - ⚠️ Allure CLI not found. Please install it: `scoop install allure` or `choco install allure`.
